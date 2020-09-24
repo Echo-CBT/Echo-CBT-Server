@@ -18,5 +18,5 @@
 
 # vscode related
 .vscode
-
 .env
+node_modules
